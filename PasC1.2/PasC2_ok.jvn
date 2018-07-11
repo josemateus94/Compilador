@@ -1,0 +1,13 @@
+program Nacimento{
+	read x;
+	while(y!=z){
+		if(c==5){
+			if(d){
+				teste=(5+5/2-2*5);
+			}else{
+				teste=(5+5/2-2*5);
+				write "e!=vc";
+			};						
+		};	
+	};
+}	

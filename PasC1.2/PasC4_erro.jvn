@@ -1,0 +1,15 @@
+program Nacimento num aa, a ;{
+	teste=NOT(x)+(num1==num2);
+	tes=(5.3+5/2-2*5);
+	nv=((not10)+not z);
+	if(10>5){	
+		while(saldo==deposito){
+			if(saque){
+				aux=(5+5/2-2*5);
+			}else{
+				ttt=(5+5/2-2*5);
+			}
+		};
+	};	
+}
+

@@ -1,0 +1,15 @@
+program Nacimento{
+	read ;
+	if(num1>5){	
+		while(aux==novo){
+			if(num2){
+				aux=(5+5/2-2*5);
+			}else{
+				teste=(5+5/2-2*5);
+			};
+		};
+	};
+	write ((novo));	
+}
+
+
